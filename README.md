@@ -8,9 +8,6 @@ The Application has been deployed using vercel and can be access through the giv
 ### Home page
 ![Home Page](https://github.com/runtime-terror0304/github-finder-app/blob/main/screenshots/Screenshot%20(1971).png?raw=true)
 
-### Home page
-![Home Page](https://github.com/runtime-terror0304/github-finder-app/blob/main/screenshots/Screenshot%20(1971).png?raw=true)
-
 ![Home Page](https://github.com/runtime-terror0304/github-finder-app/blob/main/screenshots/Screenshot%20(1972).png?raw=true)
 
 ### Search results
